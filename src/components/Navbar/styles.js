@@ -131,8 +131,8 @@ export const MenuSection = styled.div`
 
     .menu-toggle {
       width: 40px;
-      height: 30px;
-      margin-right: 20px;
+      height: 40px;
+      margin-right: 8px;
     }
 
     /* menu fullscreen */
