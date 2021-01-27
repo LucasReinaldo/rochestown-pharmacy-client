@@ -1,10 +1,9 @@
 import Header from '../../components/Header';
 import Navbar from '../../components/Navbar';
+import Hero from '../../components/Hero';
 import About from '../../components/About';
 import OpeningHours from '../../components/OpeningHours';
 import ContactUs from '../../components/ContactUs';
-
-import { Hero } from './styles';
 
 const Home = () => {
   return (
