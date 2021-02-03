@@ -7,11 +7,11 @@
 
 ## 💻 Project
 
-The Webpage is basically a SPA for Rochestown Pharmacy (Interview test).
+The Webpage is basically a SPA for Rochestown Pharmacy.
 
 ## 🚀 Technologies
 
-The project was developed during the GoStack Bootcamp by RocketSeat, developed mainly with the following technologies:
+The project was developed for an interview process, developed mainly with the following technologies:
 
 ```
 [x] - JavaScript
